@@ -10,14 +10,14 @@ Neste projeto criamos um e-book e um vídeo para formato Youtube sobre o desenvo
 
 ## 🧐 Processo de Criação
 E-book: 
-> Selecionei o tópico e solicitei a criação para o chatGPT, definindo tema, linguagem, público alvo e quantidade de linhas.
-> Gerei as imagens utilizadas no e-book para o Leonardo AI, com base no tema abordado, utizando os prompts (robô humanóide face a face com humano)
+- Selecionei o tópico e solicitei a criação para o chatGPT, definindo tema, linguagem, público alvo e quantidade de linhas.
+- Gerei as imagens utilizadas no e-book para o Leonardo AI, com base no tema abordado, utizando os prompts (robô humanóide face a face com humano)
 
 Video: 
-> Utilizado script do ChatGPT para o Invideo
-> Solitado video com média de 3 minutos
-> Solicitado voz feminina
-> Após geração do video, solicitado tradução para Português (BR)
+- Utilizado script do ChatGPT para o Invideo
+- Solitado video com média de 3 minutos
+- Solicitado voz feminina
+- Após geração do video, solicitado tradução para Português (BR)
 
 ## 🚀 Resultados
 Resultados anexados neste projeto!
